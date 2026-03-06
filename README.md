@@ -6,18 +6,18 @@ It contains my solutions to problem sets, lab notes, and reflections on the core
 
 ## 📚 Course Progress
 
-- [ ] **Week 0: Scratch** - Fundamentals of programming: loops, conditions, and variables.
-- [ ] **Week 1: C** - Syntax, data types, and compilation.
-- [ ] **Week 2: Arrays** - Memory layout, strings, and command-line arguments.
-- [ ] **Week 3: Algorithms** - Sorting (Bubble, Selection, Merge) and Searching.
-- [ ] **Week 4: Memory** - Pointers, hexadecimals, and dynamic memory allocation.
-- [ ] **Week 5: Data Structures** - Linked lists, hash tables, and trees.
-- [ ] **Week 6: Python** - Transitioning from C to a higher-level language.
-- [ ] **Week 7: SQL** - Relational databases and data management.
-- [ ] **Week 8: HTML, CSS, JavaScript** - The building blocks of the web.
-- [ ] **Week 9: Flask** - Building web applications with Python.
-- [ ] **Week 10: Cybersecurity** - Principles of digital security.
-- [ ] **Final Project** - My capstone software project.
+- [ ✓ ] **Week 0: Scratch** - Fundamentals of programming: loops, conditions, and variables.
+- [ ✓ ] **Week 1: C** - Syntax, data types, and compilation.
+- [ ✓ ] **Week 2: Arrays** - Memory layout, strings, and command-line arguments.
+- [ ✓ ] **Week 3: Algorithms** - Sorting (Bubble, Selection, Merge) and Searching.
+- [ ✓ ] **Week 4: Memory** - Pointers, hexadecimals, and dynamic memory allocation.
+- [ ✓ ] **Week 5: Data Structures** - Linked lists, hash tables, and trees.
+- [ ✓ ] **Week 6: Python** - Transitioning from C to a higher-level language.
+- [ ✓ ] **Week 7: SQL** - Relational databases and data management.
+- [ ✓ ] **Week 8: HTML, CSS, JavaScript** - The building blocks of the web.
+- [ ✓ ] **Week 9: Flask** - Building web applications with Python.
+- [ ✓ ] **Week 10: Cybersecurity** - Principles of digital security.
+- [ ✓ ] **Final Project** - My capstone software project.
 
 ## 🛠 Tech Stack
 - **Languages:** C, Python, SQL, JavaScript, HTML/CSS
